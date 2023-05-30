@@ -1,0 +1,22 @@
+<DOCTYPE! html>
+<head>
+                <title> Group 3 ICT</title>
+<meta name= "description" content= "The members of Group 3.">
+<meta name= "keywords" content= "Project, Group, 3, members, ICT">
+</head>
+<body>
+            <h1>Agnes, Aeris </h1>
+            <h2>Atienza, Aezelle</h2>
+            <h3>Gutierrez, Earbelle Grace</h3>
+            <h4>Catipon, Loraine</h4>
+            <h5>Pondivida, Princess</h5>
+            <h6>Garing, Gian Karlo</h6>
+            <h7>Pamploma, Jhester</h7>
+            <h8>Mendoza, K-ro</h8>
+            <h9>Soriano, Kim Cyruss</h9>
+            <h10>Remo, David</h10>
+</body>
+</html>
+
+
+ 
